@@ -1,0 +1,3 @@
+org/acme/opentracing/FrancophoneService.class
+org/acme/opentracing/TracedResource.class
+org/acme/opentracing/ResourceClient.class

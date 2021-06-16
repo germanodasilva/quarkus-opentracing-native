@@ -1,1 +1,1 @@
-# quarkus-opentracing-native
+Quarkus guide: https://quarkus.io/guides/opentracing

@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: quarkus-config
+  labels:
+    app: quarkus-opentracing
+data:
+  MYSERVICE: myservice
+  TIPO: const
+  PARAM: 1
+  ---
